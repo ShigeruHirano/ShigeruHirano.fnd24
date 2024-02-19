@@ -1,0 +1,25 @@
+.square{
+     width: 500px;
+     height: 52px;
+     background-color: rgb(69, 190, 69);
+     margin:auto;
+     /* font-size: 20px; */
+
+}
+.square2{
+     width: 500px;
+     background-color: rgb(176, 176, 202);
+     margin:auto;
+     font-size: 20px;
+     color: rgb(95, 99, 45);
+     font-weight: bold;
+     /* position: absolute;
+     left:50%;
+     transform: translate(-50%,-50%); */
+}
+.button1{
+     font-size: 40px;
+} 
+.input1{
+     font-size: 20px;
+}
